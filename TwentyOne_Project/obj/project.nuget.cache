@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xxb/rV7FnvIi9IpO8DPhEkbrwqSGW5AcB3inVC6ODl0uViSbqncnir4H4sOs+FJ4eP+PQJgM3N3odML5lWVQ4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\megcl\\OneDrive\\Documents\\GitHub\\TwentyOne_Project\\TwentyOne_Project\\TwentyOne_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\megcl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
